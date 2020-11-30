@@ -9,6 +9,10 @@ this [Documentation](https://gist.github.com/Netkas/e8977b26f482ca40911a949df7dd
 ```sh
 npm i coffeehouse
 ```
+or [Github Packages](https://github.com/Quiec/CoffeeHouse/packages/523647)
+```sh
+npm i @quiec/coffeehouse
+```
 
 ## Lydia Example
 
