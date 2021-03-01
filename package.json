@@ -1,14 +1,14 @@
 {
   "name": "coffeehouse",
-  "version": "1.0.1",
-  "description": "(un)Official CoffeeHouse API Wrapper for Javascript",
+  "version": "2.0.0",
+  "description": "Official CoffeeHouse API Wrapper for Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node example.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quiec/coffeehouse.git"
+    "url": "git+https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper.git"
   },
   "keywords": [
     "coffeehouse",
@@ -17,9 +17,9 @@
   "author": "Yusuf Usta",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/quiec/coffeehouse/issues"
+    "url": "https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper/issues"
   },
-  "homepage": "https://github.com/quiec/coffeehouse#readme",
+  "homepage": "https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper#readme",
   "dependencies": {
     "axios": "^0.21.0"
   }

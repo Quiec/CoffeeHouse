@@ -1,3 +1,3 @@
 module.exports = {
-    LydiaAI: require('./src/Lydia/LydiaAI')
-}
+  LydiaAI: require("./src/Lydia/LydiaAI"),
+};
