@@ -13,7 +13,7 @@ npm i coffeehouse
 ## Lydia Example
 
 ```js
-const { LydiaAI } = require("coffehouse");
+const { LydiaAI } = require("coffeehouse");
 
 async function speak(apikey, text) {
   const api = new LydiaAI(apikey);
@@ -22,5 +22,5 @@ async function speak(apikey, text) {
   session.think_thought(text).then((data) => console.log(data.output));
 }
 
-speak("Your API Key", "Merhaba Dünya");
+speak("Your API Key", "Hello World");
 ```
